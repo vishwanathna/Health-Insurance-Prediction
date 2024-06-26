@@ -5,7 +5,7 @@ This project aims to predict the health insurance premiums of individuals based 
 # Prerequisites
 To run this project, you will need the following:<br>
 
-Python 3.x<br>
+Python 3.<br>
 Jupyter Notebook<br>
 scikit-learn library<br>
 pandas library<br>
