@@ -14,7 +14,7 @@ numpy library<br>
 # How  did I do?
 <h3>The dataset that I am using for the task of health insurance premium prediction is collected from Kaggle. It contains data about:<br></h3>
 
-the age of the person<br>
+the age of the persons<br>
 gender of the person<br>
 Body Mass Index of the person<br>
 how many children the person is having<br>
